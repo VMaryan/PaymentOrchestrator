@@ -1,0 +1,15 @@
+D:\Projects\C#\Tempo\PaymentOrchestrator\PaymentOrchestratorApp\bin\Debug\net9.0\PaymentOrchestratorApp.exe
+D:\Projects\C#\Tempo\PaymentOrchestrator\PaymentOrchestratorApp\bin\Debug\net9.0\PaymentOrchestratorApp.deps.json
+D:\Projects\C#\Tempo\PaymentOrchestrator\PaymentOrchestratorApp\bin\Debug\net9.0\PaymentOrchestratorApp.runtimeconfig.json
+D:\Projects\C#\Tempo\PaymentOrchestrator\PaymentOrchestratorApp\bin\Debug\net9.0\PaymentOrchestratorApp.dll
+D:\Projects\C#\Tempo\PaymentOrchestrator\PaymentOrchestratorApp\bin\Debug\net9.0\PaymentOrchestratorApp.pdb
+D:\Projects\C#\Tempo\PaymentOrchestrator\PaymentOrchestratorApp\obj\Debug\net9.0\PaymentOrchestratorApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\Tempo\PaymentOrchestrator\PaymentOrchestratorApp\obj\Debug\net9.0\PaymentOrchestratorApp.AssemblyInfoInputs.cache
+D:\Projects\C#\Tempo\PaymentOrchestrator\PaymentOrchestratorApp\obj\Debug\net9.0\PaymentOrchestratorApp.AssemblyInfo.cs
+D:\Projects\C#\Tempo\PaymentOrchestrator\PaymentOrchestratorApp\obj\Debug\net9.0\PaymentOrchestratorApp.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Tempo\PaymentOrchestrator\PaymentOrchestratorApp\obj\Debug\net9.0\PaymentOrchestratorApp.sourcelink.json
+D:\Projects\C#\Tempo\PaymentOrchestrator\PaymentOrchestratorApp\obj\Debug\net9.0\PaymentOrchestratorApp.dll
+D:\Projects\C#\Tempo\PaymentOrchestrator\PaymentOrchestratorApp\obj\Debug\net9.0\refint\PaymentOrchestratorApp.dll
+D:\Projects\C#\Tempo\PaymentOrchestrator\PaymentOrchestratorApp\obj\Debug\net9.0\PaymentOrchestratorApp.pdb
+D:\Projects\C#\Tempo\PaymentOrchestrator\PaymentOrchestratorApp\obj\Debug\net9.0\PaymentOrchestratorApp.genruntimeconfig.cache
+D:\Projects\C#\Tempo\PaymentOrchestrator\PaymentOrchestratorApp\obj\Debug\net9.0\ref\PaymentOrchestratorApp.dll
